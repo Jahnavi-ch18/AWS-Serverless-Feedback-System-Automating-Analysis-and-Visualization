@@ -1,4 +1,5 @@
 # AWS-Serverless-Feedback-System-Automating-Analysis-and-Visualization
+This is 4-2 Engineering Project and Iam the Team Lead of this project (Year 2024-2025)
 This Project is regarding the Feedback system using Amazon Web Services Platform(AWS).This project aims to automate the collection, analysis and visualization of user feedback using AWS cloud services . 
 Users can submit feedback through a web interface, which is then processed and analyzed using AWS Comprehend to determine sentiment .
 
